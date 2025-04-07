@@ -1,5 +1,5 @@
 body {
-    background-image: url('/static/images/background.jpg'); 
+    background-image: url('/static/images/background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Arial', sans-serif;
@@ -113,4 +113,14 @@ footer {
     padding: 20px 0;
     margin-top: 20px;
     background-color: rgba(255, 255, 255, 0.8);
+}
+
+#registration-info {
+    position: absolute;
+    top: 190px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
 }
